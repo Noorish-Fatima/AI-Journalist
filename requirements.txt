@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+httpx
+beautifulsoup4
+lxml
+groq
+langchain-groq
+langchain-core
+langgraph
+langchain-mcp-adapters
+fastmcp
+mcp
+aiolimiter
+python-dotenv
+gtts
+pydantic

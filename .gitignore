@@ -1,0 +1,8 @@
+node_modules/
+frontend/node_modules/
+frontend/.next/
+audio/
+*.mp3
+__pycache__/
+.env
+.DS_Store
