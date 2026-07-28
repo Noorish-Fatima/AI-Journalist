@@ -6,7 +6,7 @@ import asyncio
 from typing import Dict,List
 
 load_dotenv()
-
+# scraping news.......
 class NewsScraper:
     _rate_limiter=AsyncLimiter(5,1)
     async def scrape_news(self,topics:List[str])->Dict[str,str]:

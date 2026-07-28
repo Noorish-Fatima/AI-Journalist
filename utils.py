@@ -12,7 +12,7 @@ load_dotenv()
 
 # ################## News utililies ##########################################
 
-
+#generate a valid news url to scrape 
 def generate_valid_news_url(keyword:str)->str:
     """
     Generate a Google News search URL for a keyword
